@@ -23,21 +23,21 @@
           <img class="w-20 h-20 mx-auto mb-4" src="../assets/images/globe.png" alt="">
           <h3 class="text-center text-2xl mb-2">Frontend Development</h3>
           <p class="text-center text-sm">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci, qui!</p>
-          <button class="mx-auto w-full bg-red-300 px-10 py-4 text-black-400 font-bold mt-5">Learn More</button>
+          <button class="mx-auto w-full bg-red-300 px-10 py-4 text-black-400 font-bold mt-5"><nuxt-link to="/services/frontend">Learn More</nuxt-link></button>
 
         </div>
         <div class="service p-2 shadow">
           <img class="w-20 h-20 mx-auto mb-4" src="../assets/images/computer.png" alt="">
           <h3 class="text-center text-2xl mb-2">Backend Development</h3>
           <p class="text-center text-sm">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci, qui!</p>
-          <button class="mx-auto w-full bg-red-300 px-10 py-4 text-black-400 font-bold mt-5">Learn More</button>
+          <button class="mx-auto w-full bg-red-300 px-10 py-4 text-black-400 font-bold mt-5"><nuxt-link to="/services/backend">Learn More</nuxt-link></button>
 
         </div>
         <div class="service p-2 shadow">
           <img class="w-20 h-20 mx-auto mb-4" src="../assets/images/seo.png" alt="">
           <h3 class="text-center text-2xl mb-2">SEO</h3>
           <p class="text-center text-sm">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Adipisci, qui!</p>
-          <button class="mx-auto w-full bg-red-300 px-10 py-4 text-black-400 font-bold mt-5">Learn More</button>
+          <button class="mx-auto w-full bg-red-300 px-10 py-4 text-black-400 font-bold mt-5"><nuxt-link to="/services/seo">Learn More</nuxt-link></button>
 
         </div>
       </div>
