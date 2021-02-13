@@ -4,7 +4,7 @@
     <div class="w-100 h-full bg-blue-400">
       <div class="w-50 p-40 bg-black">
         <h1 class="text-5xl leading-none text-white mb-5">Welcome Nuxter</h1>
-        <p class="text-white">You are here because of me</p>
+        <p class="text-white">Airfare is a starter project.</p>
         <button class="bg-red-300 px-10 py-4 text-black-400 font-bold mt-5"><nuxt-link to="/about">Learn More</nuxt-link></button>
       </div>
     </div>

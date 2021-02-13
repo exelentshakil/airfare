@@ -4,7 +4,7 @@
     <div class="w-100 h-full bg-blue-400">
       <div class="w-50 p-40 bg-black">
         <h1 class="text-5xl leading-none text-white mb-5">Contact</h1>
-        <p class="text-white">You are here because of me</p>
+        <p class="text-white">Airflare is a dummy project.</p>
         <button class="bg-red-300 px-10 py-4 text-black-400 font-bold mt-5">Learn More</button>
       </div>
     </div>
