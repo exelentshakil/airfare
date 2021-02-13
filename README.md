@@ -17,4 +17,4 @@ $ yarn start
 $ yarn generate
 ```
 
-For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+For preview dev site [Airflare site](https://airflare.netlify.app/).
